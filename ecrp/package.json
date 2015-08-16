@@ -1,0 +1,105 @@
+{
+	"language": "squirrel",
+    "scripts": [
+        {
+            "filepath": "MySQL.nut",
+            "type": "server"
+        },
+        {
+            "filepath": "CVehicleScript.nut",
+            "type": "server"
+        },
+        {
+            "filepath": "CHouse.nut",
+            "type": "server"
+        },
+        {
+            "filepath": "CHouseManager.nut",
+            "type": "server"
+        },
+        {
+            "filepath": "CBusinessScript.nut",
+            "type": "server"
+        },
+        {
+            "filepath": "CBusiness.nut",
+            "type": "server"
+        },
+        {
+            "filepath": "CBusinessManager.nut",
+            "type": "server"
+        },
+        {
+            "filepath": "CRoleplayScript.nut",
+            "type": "server"
+        },
+        {
+            "filepath": "CDeveloperScript.nut",
+            "type": "server"
+        },
+        {
+            "filepath": "CVehicle.nut",
+            "type": "server"
+        },
+        {
+            "filepath": "CVehicleManager.nut",
+            "type": "server"
+        },
+        {
+            "filepath": "CItem.nut",
+            "type": "server"
+        },
+        {
+            "filepath": "CItemTemplateAbility.nut",
+            "type": "server"
+        },
+        {
+            "filepath": "CItemTemplate.nut",
+            "type": "server"
+        },
+        {
+            "filepath": "CItemTemplateManager.nut",
+            "type": "server"
+        },
+        {
+            "filepath": "CInventory.nut",
+            "type": "server"
+        },
+        {
+            "filepath": "CInventoryManager.nut",
+            "type": "server"
+        },
+        {
+            "filepath": "CGeneralScript.nut",
+            "type": "server"
+        },
+        {
+            "filepath": "CScriptManager.nut",
+            "type": "server"
+        },
+        {
+            "filepath": "CPlayer.nut",
+            "type": "server"
+        },
+        {
+            "filepath": "CEventManager.nut",
+            "type": "server"
+        },
+        {
+            "filepath": "CEntityManager.nut",
+            "type": "server"
+        },
+        {
+            "filepath": "CPlayerManager.nut",
+            "type": "server"
+        },
+        {
+            "filepath": "CPlayer.nut",
+            "type": "server"
+        },
+        {
+            "filepath": "CGame.nut",
+            "type": "server"
+        }
+    ]
+}
